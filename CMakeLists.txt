@@ -17,8 +17,8 @@ endif()
 include("cmake/HunterGate.cmake")
 
 HunterGate(
-    URL "https://github.com/ruslo/hunter/archive/v0.20.62.tar.gz"
-    SHA1 "10ffae63cf7b07193d6d7b459c1d0cfa242fad5b"
+    URL "https://github.com/ruslo/hunter/archive/v0.20.63.tar.gz"
+    SHA1 "358385a57457e5276f9e9db6e8e2bc80c53287ad"
 )
 
 project(VulkanFun)
